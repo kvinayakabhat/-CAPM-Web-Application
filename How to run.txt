@@ -1,0 +1,10 @@
+to run the code :  
+
+1 > create a folder and paste both the CAPM_Return.py and capm_functions.py files.
+2 > run the following command in your terminal:  streamlit run CAPM_Return.py
+3 > note if you are getting any error then kindly install the libraries:
+            
+            open terminal and paste :
+            pip install streamlit yfinance pandas numpy pandas-datareader datetime
+
+4 > you also need a good internet connection
